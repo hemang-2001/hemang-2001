@@ -1,13 +1,8 @@
-name: Update blog posts
+name: Latest blog post workflow
 on:
-  push:
-    branches: ["main"]
-  workflow_dispatch:
-  schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
-    
-
+  schedule: # Run workflow automatically
+    - cron: '0 * * * *' # Runs every hour, on the hour
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
@@ -15,19 +10,6 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: hemang-2001/blog-post-workflow@main
         with:
-          comment_tag_name: DEVTO
           feed_list: "https://dev.to/feed/hemang2001"
-      
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          comment_tag_name: MEDIUM
-          feed_list: "https://medium.com/feed/@khaosdoctor"
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          comment_tag_name: BLOG
-          feed_list: "https://blog.lsantos.dev/rss"
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          comment_tag_name: FCC
-          feed_list: "https://www.freecodecamp.org/news/author/_staticvoid/rss"
