@@ -22,6 +22,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [Movie Recommendation System](https://dev.to/hemang2001/movie-recommendation-system-56fc)
 - [PERSONAL WEBSITE](https://dev.to/hemang2001/personal-website-1bpk)
+- [Yet Another Sample Page](http://hemangbairwa.me//Yet-Another-Sample-Page)
+- [Sample Page](http://hemangbairwa.me//Sample-Page)
 <!-- BLOG-POST-LIST:END -->
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
