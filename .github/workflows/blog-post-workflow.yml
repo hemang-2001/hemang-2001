@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: Blog Post Workflow
 on:
   schedule:
     # Runs every hour
@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: gautamkrishnar/blog-post-workflow@1.4.2
         with:
           max_post_count: "4"
           feed_list: "https://dev.to/feed/hemang2001"
