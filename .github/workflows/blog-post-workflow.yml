@@ -14,4 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@1.4.2
         with:
           max_post_count: "4"
-          feed_list: "https://dev.to/feed/hemang2001,https://twitter.com/HemangBairwa/feed"
+          feed_list: "https://dev.to/feed/hemang2001,https://twitter.com/HemangBairwa/feed,https://hemangbairwa.me/blog/atom.xml"
