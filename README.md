@@ -20,8 +20,6 @@
  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Movie Recommendation System](https://dev.to/hemang2001/movie-recommendation-system-56fc)
-- [PERSONAL WEBSITE](https://dev.to/hemang2001/personal-website-1bpk)
 - [Numba series part 1: The @jit decorator and some more Numba basics](https://hemang.engineer/2017/09/21/numba-series-part-1-the-jit-decorator-and-some-more-numba-basics.html)
 <!-- BLOG-POST-LIST:END -->
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
