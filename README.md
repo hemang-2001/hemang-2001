@@ -20,10 +20,7 @@
  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Blogging Like a Hacker](https://blog.hemang.engineer/2020/12/18/Blog-like-a-Hacker.html)
-- [A Personal Website](https://blog.hemang.engineer/2020/12/18/A-personal-website.html)
-- [A personal Website](https://blog.hemang.engineer/2020/12/15/A-sample-project.html)
-- [Numba series part 1: The @jit decorator and some more Numba basics](https://blog.hemang.engineer/2020/12/14/A-semple-project.html)
+- [A Personal Website](https://blog.hemang.engineer/2020/12/15/A-Personal-Website.html)
 <!-- BLOG-POST-LIST:END -->
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
