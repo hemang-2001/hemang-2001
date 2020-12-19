@@ -20,7 +20,7 @@
  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [A Blog Website](https://blog.hemang.engineer/2020/12/18/A-Blog-Website.html)
+- [A Personal Blog Website](https://blog.hemang.engineer/2020/12/18/A-Blog-Website.html)
 - [A Personal Website](https://blog.hemang.engineer/2020/12/15/A-Personal-Website.html)
 <!-- BLOG-POST-LIST:END -->
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
