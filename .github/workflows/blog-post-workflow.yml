@@ -14,4 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@1.4.2
         with:
           max_post_count: "20"
-          feed_list: "https://blog.hemang.engineer/feed.xml"
+          feed_list: "https://blog.hemang.engineer/feed.xml,https://dev.to/hemang2001/feed"
