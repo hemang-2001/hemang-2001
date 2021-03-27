@@ -21,6 +21,7 @@
 ## 📕 Latest Blog Post :
 ![Blog Post Workflow](https://github.com/hemang-2001/hemang-2001/workflows/Blog%20Post%20Workflow/badge.svg?branch=main)
 <!-- BLOG-POST-LIST:START -->
+- [Jpeg To Ascii](https://blog.hemang.engineer/2021/03/27/JPEG-TO-ASCII.html)
 - [A Personal Blog Website](https://blog.hemang.engineer/2020/12/18/A-Blog-Website.html)
 - [A Personal Website](https://blog.hemang.engineer/2020/12/15/A-Personal-Website.html)
 <!-- BLOG-POST-LIST:END -->
