@@ -28,8 +28,8 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=hemang-2001&show_icons=true&theme=tokyonight&line_height=27)
-![github repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=hemang-2001&hide=css,java,html&theme=tokyonight)
 ![Stats](https://github-readme-streak-stats.herokuapp.com/?user=hemang-2001&theme=dark)
+![github repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=hemang-2001&hide=css,java,html&theme=tokyonight)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
