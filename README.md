@@ -14,7 +14,6 @@
 -  **Hobbies :** Gaming :video_game: & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart:
 -  **Website :** [https://hemang.engineer](https://hemang.engineer)
--  **Email-id :** [admin@hemang.engineer](mailto:admin@hemang.engineer)
 -  **Club:** [Devloper Student Club](https://dsc.community.dev/u/mndq2u/)
 
  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
