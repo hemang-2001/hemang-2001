@@ -25,10 +25,10 @@
 - [A Personal Website](https://blog.hemang.engineer/2020/12/15/A-Personal-Website.html)
 <!-- BLOG-POST-LIST:END -->
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![github stats](https://github-readme-stats.vercel.app/api?username=hemang-2001&show_icons=true&theme=tokyonight&line_height=27)
-![Stats](https://github-readme-streak-stats.herokuapp.com/?user=hemang-2001&theme=dark)
-![github repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=hemang-2001&hide=css,java,html&theme=tokyonight)
+## 💻 Github Profile Stats :
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hemang-2001&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hemang-2001&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hemang-2001&theme=dracula)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
