@@ -15,9 +15,7 @@
 -  **Fact :** First solve the problem, then write the code :heart:
 -  **Website :** [https://hemang.engineer](https://hemang.engineer)
 -  **Club:** [Devloper Student Club](https://dsc.community.dev/u/mndq2u/)
--  **Google Dev Account:** [Hemang Bairwa](https://developers.google.com/profile/u/102487938215659220995) 
--  <img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-
+-  [![Google - Developer Profile](https://img.shields.io/static/v1?label=Google&message=Developer+Profile&color=4285F4)](https://developers.google.com/profile/u/102487938215659220995)
  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 📕 Latest Blog Post :
 ![Blog Post Workflow](https://github.com/hemang-2001/hemang-2001/workflows/Blog%20Post%20Workflow/badge.svg?branch=main)
