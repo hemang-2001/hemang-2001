@@ -31,9 +31,8 @@
 ![](https://raw.githubusercontent.com/hemang-2001/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/hemang-2001/github-stats/master/generated/languages.svg#gh-light-mode-only)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](https://github.com/hemang-2001/hemang-2001/blob/output/github-contribution-grid-snake-dark.svg)
-![GitHub Snake dark](#gh-dark-mode-only)
+![GitHub Snake Light](https://github.com/hemang-2001/hemang-2001/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://github.com/hemang-2001/hemang-2001/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
