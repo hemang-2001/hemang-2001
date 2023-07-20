@@ -10,17 +10,13 @@
 -  **Hobbies :** Gaming :video_game: & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart:
 -  **Website :** [https://hemang-2001.github.io](https://hemang-2001.github.io)
--  **Club:** [Devloper Student Club](https://dsc.community.dev/u/mndq2u/)
- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
+-  **Linkedin:** [Hemang's LinkedIn](https://linkedin.com/in/hemang-bairwa)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 💻 Github Profile Stats :
 
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Hemang's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=hemang-2001&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=0d1117&title_color=74eabc" height="192px"/></a>
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/hemang-2001?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![GitHub Snake Light](https://github.com/hemang-2001/hemang-2001/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](https://github.com/hemang-2001/hemang-2001/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
