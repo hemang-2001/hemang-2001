@@ -14,7 +14,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 💻 Github Profile Stats :
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Hemang's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=hemang-2001&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=0d1117&title_color=74eabc" height="192px"/></a>
+<a href="https://github.com/hemang-2001"><img alt="Hemang's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=hemang-2001&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=0d1117&title_color=74eabc" height="192px"/></a>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
