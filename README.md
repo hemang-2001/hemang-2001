@@ -1,11 +1,3 @@
-![GitHub Repo stars](https://img.shields.io/github/stars/hemang-2001/smartube)
-
-
-
-
-
-
-
 # 📝About
 
 -  **Learning :** Full-Stack Development :zap: | Web-Developer :fire:	
