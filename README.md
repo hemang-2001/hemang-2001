@@ -5,7 +5,7 @@
 -  **Hobbies :** Gaming :video_game: & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart:
 -  **Website :** [https://hemang-2001.github.io](https://hemang-2001.github.io)
--  **Linkedin:** [Hemang's LinkedIn](https://linkedin.com/in/--hemangb)
+-  **Linkedin:** [Hemang's LinkedIn](https://linkedin.com/in/-hemangb)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 💻 Github Profile Stats :
 
