@@ -40,5 +40,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/-hemangb/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/hemang-2001)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=vercel)](https://hemang-2001.github.io)  
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R01G3V8Q)
 
 ✨ _Let's build something amazing together!_ 🚀
