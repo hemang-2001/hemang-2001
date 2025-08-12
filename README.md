@@ -1,7 +1,8 @@
-### Hi there, I'm Hemang Bairwa! 👋  
+![Header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi%20there%20I'm%20Hemang%20Bairwa&fontSize=40&fontAlignY=35)
+
 #### Full-Stack Developer | Open-Source Enthusiast | 15+ GitHub Stars ⭐ on Open-Source Project
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hemang%20Bairwa&fontSize=40&fontAlignY=35)
+
 
 💻 **Tech Stack:**
 
